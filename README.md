@@ -3,6 +3,9 @@ A [Gatsby v2](https://www.gatsbyjs.org/) and [Netlify CMS](https://www.netlifycm
 
 It follows the [JAMstack architecture](https://jamstack.org) by using Git as a single source of truth, and [Netlify](https://www.netlify.com) for continuous deployment, and CDN distribution.
 
+## To change site settings
+https://gatsby-business-starter.netlify.app/admin
+
 ## Demo
 [Gatsby Starter Business](https://gatsby-starter-business.netlify.com)
 
