@@ -2,9 +2,7 @@
 templateKey: home-page
 title: CAPSA TUTORING SERVICES
 heading: ANNOUNCEMENTS
-description: >-
-  Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
-  adipisci velit...
+description: CAPSA is a 503.c Nonprofit Org
 offerings:
   blurbs:
     - image: /img/coffee.png
